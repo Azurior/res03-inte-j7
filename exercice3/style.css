@@ -1,0 +1,16 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+p{
+    font-size: 4em;
+    color: yellow;
+}
+
+body section{
+    width: 1200px;
+    height: 630px;
+    background-image: url("https://res03.sites.3wa.io/assets/files/inte/j7/starwarsdark.jpg");
+    overflow-y: scroll;
+}
